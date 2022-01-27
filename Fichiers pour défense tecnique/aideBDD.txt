@@ -1,0 +1,11 @@
+Dans la base de données : 
+
+Les utilisateurs avec rôles et numero et id de compte
+Les comptes avec numero et id et nom
+Les fournisseurs avec numéros et noms
+Les banques avec numero, comptes et types de comptes
+Les factures avec date, numero et id. 
+Les décomptes avec id, numéro, type; 
+Les exrtaits de compte avec Id et date
+
+La facturier avec le numéro de facture, le fournisseur, le n° de fournisseur, l'objet,, la date de facture, le numero de facture, le libellé, le décompte, cpt gen, Htva, TVA, A payer, Payé, fichiers groupé, extrait, date d'extrait, VCF
